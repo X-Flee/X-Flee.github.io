@@ -70,11 +70,6 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://X-Flee.github.io/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://X-Flee.github.io/ar/post/"
                 />
@@ -129,16 +124,6 @@
   </url><url>
     <loc>https://X-Flee.github.io/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://X-Flee.github.io/zh-cn/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://X-Flee.github.io/categories/test/"
-                />
   </url><url>
     <loc>https://X-Flee.github.io/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
