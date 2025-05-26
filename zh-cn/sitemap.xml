@@ -43,9 +43,29 @@
   </url><url>
     <loc>https://X-Flee.github.io/zh-cn/post/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://X-Flee.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://X-Flee.github.io/zh-cn/post/"
+                />
   </url><url>
     <loc>https://X-Flee.github.io/zh-cn/categories/%E7%94%B5%E8%B7%AF/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://X-Flee.github.io/categories/%E7%94%B5%E8%B7%AF/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://X-Flee.github.io/zh-cn/categories/%E7%94%B5%E8%B7%AF/"
+                />
   </url><url>
     <loc>https://X-Flee.github.io/zh-cn/page/</loc>
     <xhtml:link

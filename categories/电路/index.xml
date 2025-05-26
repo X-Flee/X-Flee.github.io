@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>电路 on Example Site</title>
+        <link>https://X-Flee.github.io/categories/%E7%94%B5%E8%B7%AF/</link>
+        <description>Recent content in 电路 on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://X-Flee.github.io/categories/%E7%94%B5%E8%B7%AF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>《电路》学习笔记</title>
+        <link>https://X-Flee.github.io/p/test-chinese/</link>
+        <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://X-Flee.github.io/p/test-chinese/</guid>
+        <description>&lt;img src="https://X-Flee.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 《电路》学习笔记" /&gt;&lt;h1 id=&#34;第一章-电路模型和电路定律&#34;&gt;第一章 电路模型和电路定律
+&lt;/h1&gt;&lt;h2 id=&#34;11-电路和电路模型&#34;&gt;1.1 电路和电路模型
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;实际电路&lt;/strong&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;定义&lt;/strong&gt;：实际电路是为完成某种预期目的而设计、安装、运行（也可以是非预期情况，例如短路、漏电等），由电路部件（例如电阻器、蓄电池等）和电路器件（例如晶体管、集成电路等）相互连接而成的电流通路装置。电路又称 &lt;strong&gt;网络&lt;/strong&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作用&lt;/strong&gt;：实际电路常借助于电压、电流而完成传输电能或信号、处理信号、测量、控制、计算等功能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组成&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;电源&lt;/strong&gt;：电能或电信号的发生器。由于电路中的电压、电流是在电源的作用下产生的，因此电源又称激励源或 &lt;strong&gt;激励&lt;/strong&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;负载&lt;/strong&gt;：用电设备。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;响应&lt;/strong&gt;：由激励而在电路中产生的电压、电流。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;输入&lt;/strong&gt; 与 &lt;strong&gt;输出&lt;/strong&gt;：根据激励与响应之间的因果关系，把激励称为输入，响应称为输出。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电路理论&lt;/strong&gt;
+&lt;ol&gt;
+&lt;li&gt;电路理论研究电路中发生的电磁现象，并用电流、电压、电荷、磁通等物理量来描述其中的过程。&lt;/li&gt;
+&lt;li&gt;电路理论主要是计算电路中各部件、器件的端子电流和端子间的电压，一般不涉及内部发生的物理过程。&lt;/li&gt;
+&lt;li&gt;电路理论中设计的物理量主要有 &lt;strong&gt;电流 $I$&lt;/strong&gt; 、 &lt;strong&gt;电压 $U$&lt;/strong&gt; 、 &lt;strong&gt;电荷 $Q$&lt;/strong&gt; 、 &lt;strong&gt;磁通 $\Phi$&lt;/strong&gt; 、 &lt;strong&gt;磁通链 $\Psi$&lt;/strong&gt; 、 &lt;strong&gt;电功率 $P$&lt;/strong&gt; 、 &lt;strong&gt;电能 $W$&lt;/strong&gt; 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电路模型&lt;/strong&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;实际电路的电路模型&lt;/strong&gt; 由理想电路元件相互连接而成。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;理想元件&lt;/strong&gt; 是组成电路模型的最小单元，是具有某种确定电磁性质并有精确数学定义的基本结构。&lt;/li&gt;
+&lt;li&gt;电路模型中各理想元件的端子是用 &lt;strong&gt;“理想导线”&lt;/strong&gt; 链接起来的。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建立电路模型&lt;/strong&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;定义&lt;/strong&gt;：用理想电路元件或它们的组合模拟实际器件就是建立其模型，简称 &lt;strong&gt;建模&lt;/strong&gt; 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;方法&lt;/strong&gt;：建模时必须考虑&lt;strong&gt;工作条件&lt;/strong&gt;，并按不同&lt;strong&gt;准确度&lt;/strong&gt;的要求把给定&lt;strong&gt;工作情况&lt;/strong&gt;下的&lt;strong&gt;主要物理现象和功能&lt;/strong&gt;反映出来。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;12-电流和电压的参考方向&#34;&gt;1.2 电流和电压的参考方向
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;在电路分析中，当涉及某个元件或部分电路的电流或电压时，有必要指定电流或电压的&lt;strong&gt;参考方向&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;指定参考方向的&lt;strong&gt;目的&lt;/strong&gt;是把电流电压看成代数量，值的正负就可以反映出电流电压的实际方向。&lt;/li&gt;
+&lt;li&gt;只有规定了参考方向以后，才能写出随时间变化的电流电压的函数式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电流&lt;/strong&gt;的参考方向：一般用&lt;strong&gt;箭头&lt;/strong&gt;表示，也可以用双下标表示，例如 $i_{\rm AB}$ 表示参考方向由 $\rm A$ 到 $\rm B$ 。&lt;br&gt;
+如果电流 $i$ 的实际方向与参考方向一致，则电流为正值，即 $i &amp;gt; 0$ ；如果电流 $i$ 的实际方向与参考方向相反，则电流为负值，即 $i &amp;lt; 0$ 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电压&lt;/strong&gt;的参考方向/参考极性：描述两点间电压时，一般用正极性 $( + )$ 表示高电位，负极性 $( - )$ 表示低电位，而正极指向负极的方向就是电压的参考方向。也可以用双下标表示电压，如 $u_{\rm AB}$ 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关联参考方向&lt;/strong&gt;：如果指定流过元件的电流参考方向是从标以电压正极性的一端指向负极性的一端，即电流与电压的参考方向一致，则把两者的这种参考方向称为关联参考方向；当两者不一致时，称为非关联参考方向。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;13-电功率和能量&#34;&gt;1.3 电功率和能量
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;电流&lt;/strong&gt; $I$&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;定义：单位时间流过的电荷量。&lt;/li&gt;
+&lt;li&gt;量性：标量&lt;/li&gt;
+&lt;li&gt;定义式：$I={{\rm d} i}/{{\rm d} t}$&lt;/li&gt;
+&lt;li&gt;单位：安培 $\rm A$ ，基本单位&lt;/li&gt;
+&lt;li&gt;物理意义：描述电荷在导体中运动的物理量。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;电压&lt;/strong&gt; $U$&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;定义：两点之间的电势差&lt;/li&gt;
+&lt;li&gt;量性：标量&lt;/li&gt;
+&lt;li&gt;定义式：$U_{\rm AB} = \Delta \phi = \int^{{\boldsymbol r}&lt;em&gt;{\rm B}}&lt;/em&gt;{{\boldsymbol r}_{\rm A}} {\boldsymbol E} \cdot {\rm d} {\boldsymbol l}$&lt;/li&gt;
+&lt;li&gt;单位：伏特 $\rm V$ ，$ML^2T^{-3}I^{-1}$&lt;/li&gt;
+&lt;li&gt;物理意义：衡量单位电荷在静电场中由于电势不同所产生的能量差的物理量。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;电功&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;定义：&lt;/li&gt;
+&lt;li&gt;量性：&lt;/li&gt;
+&lt;li&gt;表达式：&lt;/li&gt;
+&lt;li&gt;单位：&lt;/li&gt;
+&lt;li&gt;物理意义：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;电功率&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;定义：&lt;/li&gt;
+&lt;li&gt;量性：&lt;/li&gt;
+&lt;li&gt;表达式：&lt;/li&gt;
+&lt;li&gt;单位：&lt;/li&gt;
+&lt;li&gt;物理意义：&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
