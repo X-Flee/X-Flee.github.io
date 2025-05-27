@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://X-Flee.github.io/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -18,53 +18,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://X-Flee.github.io/"
-                />
-  </url><url>
-    <loc>https://X-Flee.github.io/p/test-chinese/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://X-Flee.github.io/categories/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://X-Flee.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://X-Flee.github.io/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://X-Flee.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://X-Flee.github.io/post/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://X-Flee.github.io/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://X-Flee.github.io/post/"
-                />
-  </url><url>
-    <loc>https://X-Flee.github.io/categories/%E7%94%B5%E8%B7%AF/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://X-Flee.github.io/zh-cn/categories/%E7%94%B5%E8%B7%AF/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://X-Flee.github.io/categories/%E7%94%B5%E8%B7%AF/"
                 />
   </url><url>
     <loc>https://X-Flee.github.io/archives/</loc>
@@ -96,7 +49,38 @@
                 href="https://X-Flee.github.io/about/"
                 />
   </url><url>
+    <loc>https://X-Flee.github.io/p/</loc>
+  </url><url>
+    <loc>https://X-Flee.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://X-Flee.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://X-Flee.github.io/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://X-Flee.github.io/categories/"
+                />
+  </url><url>
     <loc>https://X-Flee.github.io/links/</loc>
+  </url><url>
+    <loc>https://X-Flee.github.io/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://X-Flee.github.io/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://X-Flee.github.io/post/"
+                />
   </url><url>
     <loc>https://X-Flee.github.io/search/</loc>
   </url><url>

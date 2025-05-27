@@ -7,13 +7,49 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://X-Flee.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>《电路》学习笔记</title>
-        <link>https://X-Flee.github.io/p/test-chinese/</link>
-        <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://X-Flee.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://X-Flee.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://X-Flee.github.io/p/test-chinese/</guid>
-        <description>&lt;img src="https://X-Flee.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 《电路》学习笔记" /&gt;&lt;h1 id=&#34;第一章-电路模型和电路定律&#34;&gt;第一章 电路模型和电路定律
+        <guid>https://X-Flee.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://X-Flee.github.io/about/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://X-Flee.github.io/about/</guid>
+        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://X-Flee.github.io/p/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://X-Flee.github.io/p/</guid>
+        <description>&lt;h1 id=&#34;第一章-电路模型和电路定律&#34;&gt;第一章 电路模型和电路定律
 &lt;/h1&gt;&lt;h2 id=&#34;11-电路和电路模型&#34;&gt;1.1 电路和电路模型
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;实际电路&lt;/strong&gt;
@@ -57,7 +93,7 @@
 &lt;li&gt;指定参考方向的&lt;strong&gt;目的&lt;/strong&gt;是把电流电压看成代数量，值的正负就可以反映出电流电压的实际方向。&lt;/li&gt;
 &lt;li&gt;只有规定了参考方向以后，才能写出随时间变化的电流电压的函数式。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;电流&lt;/strong&gt;的参考方向：一般用&lt;strong&gt;箭头&lt;/strong&gt;表示，也可以用双下标表示，例如 $i_{\rm AB}$ 表示参考方向由 $\rm A$ 到 $\rm B$ 。&lt;br&gt;
-如果电流 $i$ 的实际方向与参考方向一致，则电流为正值，即 $i &amp;gt; 0$ ；如果电流 $i$ 的实际方向与参考方向相反，则电流为负值，即 $i &amp;lt; 0$ 。&lt;/li&gt;
+如果电流 $i$ 的实际方向与参考方向一致，则电流为正值，即 $i \gt 0$ ；如果电流 $i$ 的实际方向与参考方向相反，则电流为负值，即 $i \lt 0$ 。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;电压&lt;/strong&gt;的参考方向/参考极性：描述两点间电压时，一般用正极性 $( + )$ 表示高电位，负极性 $( - )$ 表示低电位，而正极指向负极的方向就是电压的参考方向。也可以用双下标表示电压，如 $u_{\rm AB}$ 。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;关联参考方向&lt;/strong&gt;：如果指定流过元件的电流参考方向是从标以电压正极性的一端指向负极性的一端，即电流与电压的参考方向一致，则把两者的这种参考方向称为关联参考方向；当两者不一致时，称为非关联参考方向。&lt;/li&gt;
 &lt;/ol&gt;
@@ -78,6 +114,8 @@
 &lt;li&gt;单位：伏特 $\rm V$ ，$ML^2T^{-3}I^{-1}$&lt;/li&gt;
 &lt;li&gt;物理意义：衡量单位电荷在静电场中由于电势不同所产生的能量差的物理量。&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;电阻&lt;/strong&gt; $R$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;电导&lt;/strong&gt; $G$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;电功&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;定义：&lt;/li&gt;
@@ -94,43 +132,66 @@
 &lt;li&gt;单位：&lt;/li&gt;
 &lt;li&gt;物理意义：&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://X-Flee.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://X-Flee.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://X-Flee.github.io/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://X-Flee.github.io/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;h2 id=&#34;14-电路元件&#34;&gt;1.4 电路元件
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;电路元件是电路中最基本的组成单元。&lt;/li&gt;
+&lt;li&gt;电路元件通过其&lt;strong&gt;端子&lt;/strong&gt;与外部连接。&lt;/li&gt;
+&lt;li&gt;通过端子的两种物理量反映一种确定的电磁性质。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;元件特性&lt;/strong&gt;：两个电路物理量之间的代数函数关系称为元件的端子特性，即元件特性。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;集总(参数)元件&lt;/strong&gt;指有关电、磁场物理现象都由元件来“集总”表征。  在元件外部不存在任何电场与磁场。&lt;/li&gt;
+&lt;li&gt;集总参数元件假定：在任何时刻，流入二端元件的一个端子的电流一定等于从另一端子流出的电流，且两个端子之间的电压为单值量。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;集总电路&lt;/strong&gt;：由集总元件构成的电路称为集总电路，或称具有集总参数的电路。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;线性元件&lt;/strong&gt;：如果表征元件特性的代数关系是一个线性关系，则该元件称为线性元件；如果是非线性关系，则称为非线性元件。
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;电阻元件的元件特性是电压 $u$ 与电流 $i$ 的代数关系 $f(u,i)=0$ .&lt;/li&gt;
+&lt;li&gt;电容元件的元件特性是电荷 $q$ 与电压 $u$ 的代数关系 $f(q,u)=0$ .&lt;/li&gt;
+&lt;li&gt;电感元件的元件特性是磁通链 $\varPsi$ 与电流 $i$ 的代数关系 $f(\varPsi,i)=0$ .&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
+&lt;/li&gt;
+&lt;li&gt;电路元件按与外部连接的端子数目可分为二端、三端、四端元件等。&lt;/li&gt;
+&lt;li&gt;电路元件还可分为时不变元件和时变元件、无源元件和有源元件等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;15-电阻元件&#34;&gt;1.5 电阻元件
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;线性电阻元件&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;定义&lt;/strong&gt;：在电压和电流取关联参考方向时，在任何时刻其两端电压和电流服从欧姆定律 $$u = Ri \ .$$&lt;br&gt;
+令 $G = 1/R$ ，则有， $$i = Gu$$  $R$ 称为元件的电阻， $G$ 称为元件的电导。见[[#1.3 电功率和能量]]。&lt;/li&gt;
+&lt;li&gt;线性电阻元件是理想元件。&lt;/li&gt;
+&lt;li&gt;线性电阻元件是&lt;strong&gt;无源&lt;/strong&gt;元件。&lt;/li&gt;
+&lt;li&gt;线性电阻元件的&lt;strong&gt;图形符号&lt;/strong&gt;如图1.5-1&lt;br&gt;
+![[1.5-1.png]]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;伏安特性&lt;/strong&gt;：由于电压与电流的单位是伏和安，因此电阻元件的特性称为伏安特性。以它的电压电流作图得到电阻元件的&lt;strong&gt;伏安特性曲线&lt;/strong&gt;。如图为线性电阻元件的伏安特性曲线&lt;br&gt;
+![[1.5-2.png]]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;开路&lt;/strong&gt;：当一个线性电阻元件的端电压不论为何值时，流过它的电流恒为零值，就称为开路。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;短路&lt;/strong&gt;：当流过一个线性电阻元件的电流不论为何值时，它的端电压恒为零值，就称为短路。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;电阻元件的功率&lt;/strong&gt;：当电压 $u$ 和电流 $i$ 取关联参考方向时，电阻元件消耗的功率为 &lt;/p&gt;
+$$\begin{equation}\begin{split} p = u i &amp;= R i^2 = \frac{u^2}{R} \\[2ex] &amp;= G u^2 = \frac{i^2}{G} \ .\end{split}\end{equation}$$&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;电阻元件的电功&lt;/strong&gt;：电阻元件一般把吸收的电能转换成热能或其他能量。电阻元件从 $t_0$ 到 $t$ 的时间内吸收的电能为 &lt;/p&gt;
+$$W = \int^{t}_{t_0} {R i^2(\xi) \rm{d} \xi}\ .$$&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;非线性因素：由于制作材料的电阻率与温度有关，实际电阻器通过电流后因发热会使温度改变，因此严格说电阻器带有非线性因素。金属膜电阻器、线绕电阻器等的伏安特性曲线近似为一条直线，因此线性电阻元件可作为他们的理想模型。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;非线性电阻元件的电压电流关系一般可写为 $u = f(i)$ 或 $i = h(u)$ .&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;时变电阻元件：如果一个电阻元件具有以下的电压电流关系， $u$ 与 $i$ 仍是比例关系，但比例系数 $R$ 是随时间变化的，则称为时变电阻元件。 &lt;/p&gt;
+$$u(t) = R(t) i(t) \  或 i(t) = G(t) u(t)$$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;16-电压源和电流源&#34;&gt;1.6 电压源和电流源
+&lt;/h2&gt;</description>
         </item>
         <item>
         <title>Links</title>
