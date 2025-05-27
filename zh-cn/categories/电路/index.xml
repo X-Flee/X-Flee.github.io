@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>演示站点</title>
-        <link>https://X-Flee.github.io/zh-cn/</link>
-        <description>Recent content on 演示站点</description>
+        <title>电路 on 演示站点</title>
+        <link>https://X-Flee.github.io/zh-cn/categories/%E7%94%B5%E8%B7%AF/</link>
+        <description>Recent content in 电路 on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://X-Flee.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://X-Flee.github.io/zh-cn/categories/%E7%94%B5%E8%B7%AF/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>《电路》学习笔记</title>
         <link>https://X-Flee.github.io/zh-cn/p/test-chinese/</link>
         <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
@@ -156,15 +156,6 @@ $$u(t) = R(t) i(t) \  或 i(t) = G(t) u(t)$$&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;16-电压源和电流源&#34;&gt;1.6 电压源和电流源
 &lt;/h2&gt;</description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://X-Flee.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://X-Flee.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
         </item>
         
     </channel>

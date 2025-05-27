@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://X-Flee.github.io/zh-cn/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,9 +20,11 @@
                 href="https://X-Flee.github.io/zh-cn/"
                 />
   </url><url>
-    <loc>https://X-Flee.github.io/zh-cn/p/</loc>
+    <loc>https://X-Flee.github.io/zh-cn/p/test-chinese/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://X-Flee.github.io/zh-cn/categories/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,6 +41,32 @@
                 href="https://X-Flee.github.io/zh-cn/categories/"
                 />
   </url><url>
+    <loc>https://X-Flee.github.io/zh-cn/post/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://X-Flee.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://X-Flee.github.io/zh-cn/post/"
+                />
+  </url><url>
+    <loc>https://X-Flee.github.io/zh-cn/categories/%E7%94%B5%E8%B7%AF/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://X-Flee.github.io/categories/%E7%94%B5%E8%B7%AF/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://X-Flee.github.io/zh-cn/categories/%E7%94%B5%E8%B7%AF/"
+                />
+  </url><url>
     <loc>https://X-Flee.github.io/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,18 +77,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://X-Flee.github.io/zh-cn/page/"
-                />
-  </url><url>
-    <loc>https://X-Flee.github.io/zh-cn/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://X-Flee.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://X-Flee.github.io/zh-cn/post/"
                 />
   </url><url>
     <loc>https://X-Flee.github.io/zh-cn/tags/</loc>
